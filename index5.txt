@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>就労継続支援B型事業所 てまりん</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-[#FDF6E3] text-gray-900 font-sans">
+
+
+  <!-- ヒーローセクション -->
+<section class="px-6 py-8">
+  <div class="bg-white bg-opacity-70 p-6 rounded shadow-lg flex items-center justify-center space-x-6 max-w-4xl mx-auto">
+    <!-- ロゴマーク -->
+    <img src="https://i.postimg.cc/SQcwZqs2/image.png" alt="てまりん ロゴ" class="h-20 w-auto">
+
+    <!-- テキスト -->
+    <div>
+      <h1 class="text-5xl font-bold text-[#A78BFA] mb-2">就労継続支援B型事業所 てまりん</h1>
+      <p class="text-lg text-gray-700">あなたの一歩が、誰かの未来を照らす。</p>
+    <div>
+  </div>
+</section>
+
+  <!-- 理念 -->
+  <section class="py-12 px-6 max-w-4xl mx-auto">
+    <h2 class="text-3xl font-bold text-[#4CAF50] mb-4">事業所の理念</h2>
+    <p class="mb-6">「てまりん」は、障がいのある方が自分らしく働ける環境を提供し、地域社会と共に歩むことを目指しています。個々の可能性を尊重し、長期欠席や在宅支援にも柔軟に対応することで、誰もが安心して働ける場を築いています。</p>
+  </section>
+
+  <!-- 利用者募集 -->
+  <section class="bg-white py-12 px-6">
+    <h2 class="text-4xl font-bold text-red-700 mb-6 text-center">ご利用者様大募集!!</h2>
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+      <div class="bg-[#FDF6E3] p-4 rounded shadow">
+        <h3 class="font-semibold text-red-700 mb-2">急募！！</h3>
+        <p class="mb-2 text-sm">B型事業所「てまりん」では、現在ご利用者様を大募集しています!!</p>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+      <img src="https://i.postimg.cc/4NpYwvBG/document.jpg" alt="B型事業所 作業案内"  width="500">
+      <img src="https://i.postimg.cc/sfkBpHPK/document1.jpg" alt="B型事業所 作業工賃"  width="500">
+　　　</div>
+　　</div>
+      <div class="bg-[#FDF6E3] p-4 rounded shadow">
+        <h3 class="font-semibold mb-2">急募！！</h3>
+        <p class="mb-2 text-sm">B型事業所「てまりん」では、現在ご利用者様を大募集しています!!</p>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+      <img src="https://i.postimg.cc/4NpYwvBG/document.jpg" alt="B型事業所 作業案内"  width="500">
+      <img src="https://i.postimg.cc/sfkBpHPK/document1.jpg" alt="B型事業所 作業工賃"  width="500">
+　　　</div>
+　　</div>
+  </section>
+
+
+  <!-- 商品紹介 -->
+  <section class="bg-white py-12 px-6">
+    <h2 class="text-2xl font-bold text-[#A78BFA] mb-6 text-center">おすすめ作業・製品</h2>
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+      <div class="bg-[#FDF6E3] p-4 rounded shadow">
+        <h3 class="font-semibold mb-2">コミックリサイクル</h3>
+        <p class="mb-2 text-sm">B型事業所「てまりん」では、丁寧なページ確認と清掃を通じて、キレイな状態にして納品しています。</p>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+      <img src="https://i.postimg.cc/hGCjwTtj/image.jpg" alt="B型事業所 コミック①"  width="500">
+      <img src="https://i.postimg.cc/hGCjwTtj/image.jpg" alt="B型事業所 コミック②"  width="500">
+　　　</div>
+　　</div>
+      <div class="bg-[#FDF6E3] p-4 rounded shadow">
+        <h3 class="font-semibold mb-2">ハンガーリサイクル</h3>
+        <p class="mb-2 text-sm">仕分け・洗浄・消毒・破損確認を行い、清潔な状態で納品します。</p>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+      <img src="https://i.postimg.cc/L6BmwLyp/image.jpg" alt="B型事業所 ハンガーリサイクル①"  width="500">
+      <img src="https://i.postimg.cc/L6BmwLyp/image.jpg" alt="B型事業所 ハンガーリサイクル②"  width="500">
+　　　</div>
+　　</div>
+      <div class="bg-[#FDF6E3] p-4 rounded shadow">
+        <h3 class="font-semibold mb-2">手芸作品</h3>
+        <p class="mb-2 text-sm">キーホルダーや布小物などを製作し、店舗で販売しています。</p>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+      <img src="https://i.postimg.cc/4NpYwvBG/document.jpg" alt="B型事業所 手芸作品①"  width="500">
+      <img src="https://i.postimg.cc/sfkBpHPK/document1.jpg" alt="B型事業所 手芸作品②"  width="500">
+　　　</div>
+　　</div>
+      <div class="bg-[#FDF6E3] p-4 rounded shadow">
+        <h3 class="font-semibold mb-2">新聞袋作成</h3>
+        <p class="mb-2 text-sm">新聞紙を使った袋づくり。黙々と作業できる環境です。</p>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+      <img src="https://i.postimg.cc/4NpYwvBG/document.jpg" alt="B型事業所 新聞袋作成①"  width="500">
+      <img src="https://i.postimg.cc/sfkBpHPK/document1.jpg" alt="B型事業所 新聞紙作成②"  width="500">
+　　　</div>
+　　</div>
+      <div class="bg-[#FDF6E3] p-4 rounded shadow">
+        <h3 class="font-semibold mb-2">施設外就労（工場作業）</h3>
+        <p class="mb-2 text-sm">岡山県内の企業と連携し、工賃の高い施設外就労を実現。自立支援と社会参加を促進します。</p>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+      <img src="https://i.postimg.cc/TYXRtCJ0/image.jpg" alt="B型事業所 施設外就労①"  width="500">
+      <img src="https://i.postimg.cc/TYXRtCJ0/image.jpg" alt="B型事業所 施設外就労②"  width="500">
+　　　</div>
+　　</div>
+  </section>
+
+  <!-- ギャラリー -->
+  <section class="py-12 px-6">
+    <h2 class="text-2xl font-bold text-[#4CAF50] mb-6 text-center">ギャラリー</h2>
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+      <img src="https://i.postimg.cc/4NpYwvBG/document.jpg" alt="B型事業所 作業案内"  width="500">
+      <img src="https://i.postimg.cc/sfkBpHPK/document1.jpg" alt="B型事業所 作業工賃"  width="500">
+      <img src="https://i.postimg.cc/g2dn7wTZ/document2.jpg" alt="B型事業所 施設外就労"  width="500">
+    </div>
+  </section>
+
+  <!-- 利用者の声 -->
+  <section class="py-12 px-6 bg-[#FDF6E3]">
+    <h2 class="text-2xl font-bold text-[#4CAF50] mb-6 text-center">利用者の声</h2>
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+      <div class="bg-white p-4 rounded shadow">
+        <p class="italic">「長期欠席しても、戻ってきたときに温かく迎えてくれて安心しました。」</p>
+        <p class="text-sm text-right mt-2">– 40代 女性</p>
+      </div>
+      <div class="bg-white p-4 rounded shadow">
+        <p class="italic">「工賃が高くて、自分の作業が評価されていると感じます。」</p>
+        <p class="text-sm text-right mt-2">– 30代 男性</p>
+      </div>
+      <div class="bg-white p-4 rounded shadow">
+        <p class="italic">「在宅でもできる作業があり、体調に合わせて働けるのがありがたいです。」</p>
+        <p class="text-sm text-right mt-2">– 50代 女性</p>
+      </div>
+      <div class="bg-white p-4 rounded shadow">
+        <p class="italic">「年齢のこともあり就労先がなかなか見つからず不安でしたが、こちらでお世話になれるようになり、安心して新しい一歩を踏み出すことができました。」</p>
+        <p class="text-sm text-right mt-2">– 60代 男性</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- お知らせ -->
+  <section class="bg-white py-12 px-6 max-w-4xl mx-auto">
+    <h2 class="text-2xl font-bold text-[#A78BFA] mb-6">てまりんからのお知らせ</h2>
+    <div class="space-y-6">
+      <article>
+        <h3 class="text-xl font-semibold mb-2">【2025年8月】工賃アップのお知らせ</h3>
+        <p class="text-sm">地域平均を上回る工賃を目指し、施設外就労の拡充により工賃が500円～に上昇しました。岡山のB型事業所の中でも高水準です。</p>
+      </article>
+      <article>
+        <h3 class="text-xl font-semibold mb-2">【2025年7月】在宅支援の強化</h3>
+        <p class="text-sm">長期欠席や通所困難な方へ向けて、内職・在宅作業の支援体制を整えました。お気軽にご相談ください。</p>
+      </article>
+    </div>
+  </section>
+
+  <!-- よくある質問 -->
+  <section class="bg-white py-12 px-6 max-w-4xl mx-auto">
+    <h2 class="text-2xl font-bold text-[#A78BFA] mb-6">よくある質問</h2>
+    <ul class="space-y-4">
+      <li><strong>Q:</strong> 利用するにはどうすればいいですか？<br><strong>A:</strong> 「てまりん」までお電話又はメールでお問い合わせください。</li>
+      <li><strong>Q:</strong> 工賃はどのくらいですか？<br><strong>A:</strong> 500円〜と、地域内でも高水準の工賃を提供しています。</li>
+      <li><strong>Q:</strong> 見学は可能ですか？<br><strong>A:</strong> はい、事前予約のうえ、いつでも見学いただけます。</li>
+    </ul>
+  </section>
+
+  <!-- 事業所情報 -->
+  <section class="bg-[#A78BFA] text-white py-10 px-4">
+    <h2 class="text-2xl font-semibold mb-4 text-center">事業所情報</h2>
+    <div class="max-w-3xl mx-auto space-y-2 text-center">
+      <p>住所：岡山県岡山市東区瀬戸町沖309-6-102</p>
+      <p>営業時間：月〜金 10:00〜17:00</p>
+      <p>電話番号：086-259-0111</p>
+      <p>メール：temarin2018@gmail.com</p>
+    </div>
+    <div class="mt-6">
+      <iframe
+        src="https://www.google.com/maps?q=岡山県岡山市東区瀬戸町沖309-6&output=embed"
+        width="100%"
+        height="300"
+        style="border:0;"
+        allowfullscreen=""
+        loading="lazy"
+        referrerpolicy="no-referrer-when-downgrade"
+      ></iframe>
+    </div>
+  </section>
+
+  <!-- フッター -->
+  <footer class="bg-[#4CAF50] text-white py-6 text-center">
+    <p>&copy; 2025 就労継続支援B型事業所 てまりん</p>
+  </footer>
+
+</body>
+</html>
